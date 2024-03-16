@@ -1,0 +1,36 @@
+{
+  "name": "onedionys-error-reporting-service-integration",
+  "version": "1.0.0",
+  "description": "One Dionys (Error Reporting Service Integration) - Integration with error reporting services like Sentry or Bugsnag to track and report errors from web applications.",
+  "main": "src/errorReportingService.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-error-reporting-service-integration.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "error-reporting-service-integration"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-error-reporting-service-integration/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-error-reporting-service-integration#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21"
+  }
+}
