@@ -1,6 +1,6 @@
 {
   "name": "onedionys-error-reporting-service-integration",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (Error Reporting Service Integration) - Integration with error reporting services like Sentry or Bugsnag to track and report errors from web applications.",
   "main": "src/errorReportingService.js",
   "directories": {
